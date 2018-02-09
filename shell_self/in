@@ -1,0 +1,13 @@
+总用量 36
+-rw-rw-r-- 1 jylee jylee  373 2月   6 15:02 case.sh
+-rw-rw-r-- 1 jylee jylee  211 2月   6 15:11 for.sh
+-rw-rw-r-- 1 jylee jylee  176 2月   6 14:42 if2.sh
+-rw-rw-r-- 1 jylee jylee  297 2月   6 14:38 if.sh
+-rw-rw-r-- 1 jylee jylee    0 2月   6 16:25 out
+-rw-rw-r-- 1 jylee jylee  274 2月   6 15:39 password.sh
+prw-rw-r-- 1 jylee jylee    0 2月   5 15:37 pipe
+-rw-rw-r-- 1 jylee jylee  176 2月   5 13:46 sample.sh
+drwxrwxr-x 2 jylee jylee 4096 2月   6 14:15 test
+-rw-rw-r-- 1 jylee jylee    0 2月   6 14:27 test1
+-rw-rw-r-- 1 jylee jylee  128 2月   6 14:28 test1.sh
+-rw-rw-r-- 1 jylee jylee  225 2月   6 15:29 while.sh

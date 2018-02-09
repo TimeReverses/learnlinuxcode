@@ -1,0 +1,276 @@
+USER        PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root          1  0.0  0.2 185328  3604 ?        Ss   1月06   0:10 /sbin/init splash
+root          2  0.0  0.0      0     0 ?        S    1月06   0:00 [kthreadd]
+root          4  0.0  0.0      0     0 ?        S<   1月06   0:00 [kworker/0:0H]
+root          6  0.0  0.0      0     0 ?        S    1月06   0:02 [ksoftirqd/0]
+root          7  0.1  0.0      0     0 ?        S    1月06   3:56 [rcu_sched]
+root          8  0.0  0.0      0     0 ?        S    1月06   0:00 [rcu_bh]
+root          9  0.0  0.0      0     0 ?        S    1月06   0:00 [migration/0]
+root         10  0.0  0.0      0     0 ?        S<   1月06   0:00 [lru-add-drain]
+root         11  0.0  0.0      0     0 ?        S    1月06   0:01 [watchdog/0]
+root         12  0.0  0.0      0     0 ?        S    1月06   0:00 [cpuhp/0]
+root         13  0.0  0.0      0     0 ?        S    1月06   0:00 [cpuhp/1]
+root         14  0.0  0.0      0     0 ?        S    1月06   0:02 [watchdog/1]
+root         15  0.0  0.0      0     0 ?        S    1月06   0:00 [migration/1]
+root         16  0.0  0.0      0     0 ?        S    1月06   0:27 [ksoftirqd/1]
+root         18  0.0  0.0      0     0 ?        S<   1月06   0:00 [kworker/1:0H]
+root         19  0.0  0.0      0     0 ?        S    1月06   0:00 [kdevtmpfs]
+root         20  0.0  0.0      0     0 ?        S<   1月06   0:00 [netns]
+root         22  0.0  0.0      0     0 ?        S    1月06   0:00 [khungtaskd]
+root         23  0.0  0.0      0     0 ?        S    1月06   0:00 [oom_reaper]
+root         24  0.0  0.0      0     0 ?        S<   1月06   0:00 [writeback]
+root         25  0.0  0.0      0     0 ?        S    1月06   0:00 [kcompactd0]
+root         26  0.0  0.0      0     0 ?        SN   1月06   0:00 [ksmd]
+root         27  0.0  0.0      0     0 ?        SN   1月06   0:19 [khugepaged]
+root         28  0.0  0.0      0     0 ?        S<   1月06   0:00 [crypto]
+root         29  0.0  0.0      0     0 ?        S<   1月06   0:00 [kintegrityd]
+root         30  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         31  0.0  0.0      0     0 ?        S<   1月06   0:00 [kblockd]
+root         32  0.0  0.0      0     0 ?        S<   1月06   0:00 [ata_sff]
+root         33  0.0  0.0      0     0 ?        S<   1月06   0:00 [md]
+root         34  0.0  0.0      0     0 ?        S<   1月06   0:00 [devfreq_wq]
+root         35  0.0  0.0      0     0 ?        S<   1月06   0:00 [watchdogd]
+root         39  0.0  0.0      0     0 ?        S    1月06   0:00 [kauditd]
+root         40  0.0  0.0      0     0 ?        S    1月06   0:17 [kswapd0]
+root         41  0.0  0.0      0     0 ?        S<   1月06   0:00 [vmstat]
+root         42  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         43  0.0  0.0      0     0 ?        S    1月06   0:00 [ecryptfs-kthrea]
+root         83  0.0  0.0      0     0 ?        S<   1月06   0:00 [kthrotld]
+root         84  0.0  0.0      0     0 ?        S<   1月06   0:00 [acpi_thermal_pm]
+root         85  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         86  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         87  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         88  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         89  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         90  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         91  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         92  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root         93  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_0]
+root         94  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_0]
+root         95  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_1]
+root         96  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_1]
+root        102  0.0  0.0      0     0 ?        S<   1月06   0:00 [ipv6_addrconf]
+root        123  0.0  0.0      0     0 ?        S<   1月06   0:00 [charger_manager]
+root        169  0.0  0.0      0     0 ?        S<   1月06   0:00 [mpt_poll_0]
+root        170  0.0  0.0      0     0 ?        S<   1月06   0:00 [mpt/0]
+root        171  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_2]
+root        172  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_2]
+root        173  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_3]
+root        174  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_3]
+root        175  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_4]
+root        176  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_4]
+root        177  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_5]
+root        178  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_5]
+root        179  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_6]
+root        180  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_6]
+root        181  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_7]
+root        182  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_7]
+root        183  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_8]
+root        184  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_8]
+root        185  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_9]
+root        186  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_9]
+root        187  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_10]
+root        188  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_10]
+root        189  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_11]
+root        190  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_11]
+root        191  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_12]
+root        192  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_12]
+root        193  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_13]
+root        194  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_13]
+root        195  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_14]
+root        196  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_14]
+root        197  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_15]
+root        198  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_15]
+root        199  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_16]
+root        200  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_16]
+root        201  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_17]
+root        202  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_17]
+root        203  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_18]
+root        204  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_18]
+root        205  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_19]
+root        206  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_19]
+root        207  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_20]
+root        208  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_20]
+root        209  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_21]
+root        210  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_21]
+root        211  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_22]
+root        212  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_22]
+root        213  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_23]
+root        214  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_23]
+root        215  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_24]
+root        216  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_24]
+root        217  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_25]
+root        218  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_25]
+root        219  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_26]
+root        220  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_26]
+root        221  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_27]
+root        222  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_27]
+root        223  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_28]
+root        224  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_28]
+root        225  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_29]
+root        226  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_29]
+root        227  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_30]
+root        228  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_30]
+root        229  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_31]
+root        230  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_31]
+root        231  0.0  0.0      0     0 ?        S    1月06   0:00 [scsi_eh_32]
+root        232  0.0  0.0      0     0 ?        S<   1月06   0:00 [scsi_tmf_32]
+root        260  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root        261  0.0  0.0      0     0 ?        S<   1月06   0:00 [ttm_swap]
+root        278  0.0  0.0      0     0 ?        S<   1月06   0:00 [bioset]
+root        285  0.0  0.0      0     0 ?        S<   1月06   0:02 [kworker/0:1H]
+root        289  0.0  0.0      0     0 ?        S<   1月06   0:14 [kworker/1:1H]
+root        326  0.0  0.0      0     0 ?        S    1月06   0:05 [jbd2/sda1-8]
+root        327  0.0  0.0      0     0 ?        S<   1月06   0:00 [ext4-rsv-conver]
+root        359  0.0  0.1  29192  2024 ?        Ss   1月06   0:06 /lib/systemd/systemd-journald
+root        380  0.0  0.0      0     0 ?        S<   1月06   0:00 [rpciod]
+root        381  0.0  0.0      0     0 ?        S<   1月06   0:00 [xprtiod]
+root        389  0.0  0.0  45888   808 ?        Ss   1月06   0:02 /lib/systemd/systemd-udevd
+root        482  0.0  0.0      0     0 ?        S<   1月06   0:00 [nfit]
+systemd+    492  0.0  0.0 102384  1300 ?        Ssl  1月06   0:00 /lib/systemd/systemd-timesyncd
+root        547  0.0  0.0  23536     0 ?        Ss   1月06   0:00 /usr/sbin/rpc.idmapd
+root        882  0.0  0.1 298852  2876 ?        Ssl  1月06   0:07 /usr/lib/accountsservice/accounts-daemon
+root        883  0.0  0.1 337392  1984 ?        Ssl  1月06   0:00 /usr/sbin/ModemManager
+avahi       884  0.0  0.0  44920  1112 ?        Ss   1月06   0:01 avahi-daemon: running [codeman.local]
+syslog      885  0.0  0.0 256396   632 ?        Ssl  1月06   0:01 /usr/sbin/rsyslogd -n
+root        888  0.0  0.1 173476  2072 ?        Ssl  1月06   0:44 /usr/sbin/thermald --no-daemon --dbus-enable
+root        899  0.0  0.0   4400   316 ?        Ss   1月06   0:00 /usr/sbin/acpid
+message+    901  0.0  0.1  44280  2764 ?        Ss   1月06   0:06 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+avahi       919  0.0  0.0  44788     4 ?        S    1月06   0:00 avahi-daemon: chroot helper
+root       1014  0.0  0.4 463544  7140 ?        Ssl  1月06   0:07 /usr/sbin/NetworkManager --no-daemon
+root       1015  0.0  0.0  36076  1176 ?        Ss   1月06   0:00 /usr/sbin/cron -f
+root       1017  0.0  0.1  28660  1616 ?        Ss   1月06   0:01 /lib/systemd/systemd-logind
+root       1019  0.0  0.4 221784  6828 ?        Ssl  1月06   0:18 /usr/lib/snapd/snapd
+root       1029  0.0  0.3 304828  5376 ?        Ssl  1月06   0:05 /usr/lib/policykit-1/polkitd --no-debug
+root       1051  0.0  0.3  65520  5628 ?        Ss   1月06   0:00 /usr/sbin/sshd -D
+root       1055  0.0  0.0  24044   600 ?        Ss   1月06   0:00 /usr/sbin/vsftpd /etc/vsftpd.conf
+root       1072  0.0  0.0  47628   736 ?        Ss   1月06   0:00 /sbin/rpcbind -f -w
+root       1083  0.0  0.0  37976     4 ?        Ss   1月06   0:00 /usr/sbin/rpc.mountd --manage-gids
+root       1095  0.0  0.0      0     0 ?        S    1月06   0:00 [lockd]
+root       1097  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1098  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1099  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1100  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1101  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1102  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1103  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1104  0.0  0.0      0     0 ?        S    1月06   0:00 [nfsd]
+root       1150  0.0  0.1 365928  2024 ?        SLsl 1月06   0:01 /usr/sbin/lightdm
+root       1159  0.0  0.0  19584   984 ?        Ss   1月06   0:26 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root       1186  0.3  1.6 499488 24772 tty7     Ssl+ 1月06  12:38 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+nobody     1212  0.0  0.1  59940  1520 ?        S    1月06   0:01 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root       1440  0.0  0.0 266724    64 ?        Ssl  1月06   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root       1462  0.1  0.2 173896  3444 ?        Sl   1月06   4:42 /usr/sbin/vmtoolsd
+root       1492  0.0  0.1  71056  1760 ?        S    1月06   0:00 /usr/lib/vmware-vgauth/VGAuthService -s
+root       1552  0.0  0.5 510276  7956 ?        Sl   1月06   2:51 //usr/lib/vmware-caf/pme/bin/ManagementAgentHost
+whoopsie   1556  0.0  0.2 452204  3528 ?        Ssl  1月06   0:00 /usr/bin/whoopsie -f
+root       1560  0.0  0.0  23008   512 tty1     Ss+  1月06   0:00 /sbin/agetty --noclear tty1 linux
+root       1612  0.0  0.1 230304  2120 ?        Sl   1月06   0:00 lightdm --session-child 12 19
+root       1671  0.0  0.1 354288  2152 ?        Ssl  1月06   0:01 /usr/lib/upower/upowerd
+rtkit      1679  0.0  0.0 183544  1200 ?        SNsl 1月06   0:09 /usr/lib/rtkit/rtkit-daemon
+colord     1697  0.0  0.1 320776  2420 ?        Ssl  1月06   0:00 /usr/lib/colord/colord
+jylee      1730  0.0  0.1  45248  1572 ?        Ss   1月06   0:00 /lib/systemd/systemd --user
+jylee      1731  0.0  0.0 210752    32 ?        S    1月06   0:00 (sd-pam)
+jylee      1736  0.0  0.0 212572  1168 ?        Sl   1月06   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+jylee      1739  0.0  0.1  53708  1648 ?        Ss   1月06   0:00 /sbin/upstart --user
+jylee      1824  0.0  0.0  39996   892 ?        S    1月06   0:00 upstart-udev-bridge --daemon --user
+jylee      1825  0.0  0.1  44008  2568 ?        Ss   1月06   0:16 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-vgx5yHLdw2
+jylee      1837  0.0  0.1  93416  1628 ?        Ss   1月06   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+jylee      1858  0.0  0.0  40004   596 ?        S    1月06   0:03 upstart-dbus-bridge --daemon --session --user --bus-name session
+jylee      1860  0.0  0.0  39904   124 ?        S    1月06   0:01 upstart-dbus-bridge --daemon --system --user --bus-name system
+jylee      1864  0.0  0.0  48528   760 ?        S    1月06   0:00 upstart-file-bridge --daemon --user
+jylee      1892  0.0  0.1 733484  2684 ?        Sl   1月06   0:03 /usr/bin/fcitx
+jylee      1895  0.0  0.0 173752   148 ?        Ss   1月06   0:14 gpg-agent --homedir /home/jylee/.gnupg --use-standard-socket --daemon
+jylee      1900  0.0  0.4 533820  6776 ?        Ssl  1月06   0:05 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+jylee      1912  0.0  0.0  43036  1392 ?        Ss   1月06   0:01 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf
+jylee      1918  0.0  0.3 607388  5400 ?        Ssl  1月06   0:05 /usr/lib/x86_64-linux-gnu/hud/hud-service
+jylee      1920  0.0  0.5 872432  8624 ?        Ssl  1月06   0:09 /usr/lib/unity-settings-daemon/unity-settings-daemon
+jylee      1926  0.0  0.0  27636   772 ?        SN   1月06   0:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-TC6zaZBLHJ,guid=5f1b02ad002545400f4ba6bc5a4b07ba 1912
+jylee      1931  0.0  0.0 281752  1336 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfsd
+jylee      1936  0.0  0.1 419960  2020 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+jylee      1945  0.0  0.1 353664  2028 ?        Ssl  1月06   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+jylee      1946  0.0  0.1 569024  2300 ?        Ssl  1月06   0:02 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+jylee      1951  0.0  1.2 673636 18812 ?        Ssl  1月06   0:20 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+jylee      1954  0.0  0.0  42900  1156 ?        S    1月06   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+jylee      1962  0.0  0.1 206968  1796 ?        Sl   1月06   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+jylee      1990  0.0  0.1 377404  2608 ?        Ssl  1月06   0:02 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+jylee      1991  0.0  0.1 430232  2084 ?        Ssl  1月06   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+jylee      1996  0.0  0.1 368100  2248 ?        Ssl  1月06   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+jylee      1997  0.0  0.2 1247216 3904 ?        Ssl  1月06   0:06 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+jylee      1999  0.0  0.2 585560  4436 ?        Ssl  1月06   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+jylee      2000  0.0  0.2 765108  3520 ?        Ssl  1月06   0:02 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+jylee      2002  0.0  0.3 557244  4752 ?        Ssl  1月06   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+jylee      2006  0.0  0.2 774716  3624 ?        Ssl  1月06   0:03 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+jylee      2021  0.0  0.1 403152  2568 ?        Ssl  1月06   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+jylee      2039  1.4  0.1 442236  2216 ?        S<l  1月06  48:21 /usr/bin/pulseaudio --start --log-target=syslog
+jylee      2060  0.0  0.1 178660  1884 ?        Sl   1月06   0:00 /usr/lib/dconf/dconf-service
+jylee      2064  0.0  0.8 538864 12940 ?        Sl   1月06   0:01 /usr/lib/x86_64-linux-gnu/notify-osd
+jylee      2071  0.0  0.2 1252540 3768 ?        Sl   1月06   0:00 /usr/lib/evolution/evolution-source-registry
+jylee      2101  1.0  1.9 1603864 29760 ?       Ssl  1月06  34:46 compiz
+jylee      2115  0.0  0.1 877200  2724 ?        Sl   1月06   0:00 /usr/lib/evolution/evolution-calendar-factory
+jylee      2119  0.0  0.2 584472  4300 ?        Sl   1月06   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+jylee      2128  0.0  0.5 700792  8692 ?        Sl   1月06   0:02 nm-applet
+jylee      2129  0.0  0.2 439128  3772 ?        Sl   1月06   0:01 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+jylee      2135  0.0  3.9 1631996 59620 ?       SLl  1月06   0:37 /usr/bin/gnome-software --gapplication-service
+root       2158  0.0  0.8 635332 12568 ?        Sl   1月06   0:03 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+jylee      2161  0.0  1.1 1290492 16748 ?       Sl   1月06   0:24 nautilus -n
+jylee      2172  0.0  0.1 303648  1848 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+jylee      2173  0.1  0.3 195016  5552 ?        S    1月06   4:51 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+root       2182  0.0  0.1 382264  1836 ?        Ssl  1月06   0:00 /usr/lib/udisks2/udisksd --no-debug
+jylee      2194  0.0  0.1 410844  1696 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+jylee      2200  0.0  0.0 266732   696 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+jylee      2205  0.0  0.0 264768  1288 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+jylee      2209  0.0  0.2 943268  3200 ?        Sl   1月06   0:07 fcitx-qimpanel
+jylee      2222  0.0  0.1 278928  1700 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+jylee      2224  0.0  0.0  68536  1260 ?        S    1月06   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+jylee      2244  0.0  0.1 1273224 2932 ?        Sl   1月06   0:01 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2115x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2115/2
+jylee      2247  0.0  0.1 371012  1900 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+jylee      2262  0.0  0.1 821896  1912 ?        Sl   1月06   0:01 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2115x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2115/3
+jylee      2276  0.0  0.1 704712  2296 ?        Sl   1月06   0:00 /usr/lib/evolution/evolution-addressbook-factory
+jylee      2288  0.0  0.1 782532  2924 ?        Sl   1月06   0:01 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2276x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2276/2
+jylee      2356  0.0  0.0   4508     4 ?        S    1月06   0:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+jylee      2360  0.0  0.1 423548  2436 ?        Sl   1月06   0:01 /usr/bin/zeitgeist-daemon
+jylee      2367  0.0  0.1 323568  2060 ?        Sl   1月06   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+jylee      2369  0.0  0.2 432528  3216 ?        Sl   1月06   0:04 zeitgeist-datahub
+jylee      2502  0.0  0.4 627296  7380 ?        Sl   1月06   0:06 update-notifier
+jylee      2827  0.0  0.2 522388  3248 ?        Sl   1月06   0:01 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+root       2931  0.0  0.1 274820  2312 ?        Ssl  1月06   0:00 /usr/sbin/cups-browsed
+systemd+   5850  0.0  0.0  26688  1396 ?        Ss   1月06   0:00 /lib/systemd/systemd-networkd
+jylee      8517  0.0  0.1 445160  2160 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+jylee      8531  0.0  0.1 758772  2188 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.6 /org/gtk/gvfs/exec_spaw/3
+jylee      8547  0.0  0.0 442684  1472 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.6 /org/gtk/gvfs/exec_spaw/5
+jylee      8798  0.0  0.1 193248  1696 ?        Sl   1月06   0:00 /usr/lib/gvfs/gvfsd-metadata
+jylee      9855  0.0  0.1 289116  1532 ?        Sl   1月06   0:32 /usr/lib/speech-dispatcher-modules/sd_generic /etc/speech-dispatcher/modules/generic.conf
+jylee      9858  0.0  0.0 289004  1504 ?        Sl   1月06   0:31 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+jylee      9861  0.0  0.1 334396  1944 ?        Sl   1月06   0:33 /usr/lib/speech-dispatcher-modules/sd_espeak /etc/speech-dispatcher/modules/espeak.conf
+jylee      9868  0.0  0.1 289004  1648 ?        Sl   1月06   0:33 /usr/lib/speech-dispatcher-modules/sd_cicero /etc/speech-dispatcher/modules/cicero.conf
+jylee      9870  0.0  0.0      0     0 ?        Z    1月06   0:00 [sd_cicero] <defunct>
+jylee      9873  0.0  0.0 104284   540 ?        Ssl  1月06   0:00 /usr/bin/speech-dispatcher --spawn --communication-method unix_socket --socket-path /run/user/1000/speech-dispatcher/speechd.sock
+jylee      9941  0.0  0.3 654740  5416 ?        Sl   1月06   0:05 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+jylee      9951  0.0  0.9 591316 14756 ?        Sl   1月06   0:07 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+jylee      9967  0.0  0.1 572516  2136 ?        Sl   1月06   0:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+jylee      9978  0.0  0.1 414796  2708 ?        Sl   1月06   0:03 /usr/lib/x86_64-linux-gnu/unity-lens-video/unity-video-lens-daemon
+jylee      9994  0.0  0.1 345328  2132 ?        Sl   1月06   0:03 /usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+jylee     10000  0.0  0.1 370328  2376 ?        Sl   1月06   0:00 /usr/bin/python3 /usr/share/unity-scopes/shotwell/unity_shotwell_daemon.py
+jylee     19493  3.7 11.2 2339356 169544 ?      Sl   1月07  52:58 /usr/lib/firefox/firefox
+jylee     19545 13.0 11.4 2833280 172796 ?      Sl   1月07 183:10 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -intPrefs 5:50|6:-1|18:0|28:1000|34:20|35:5|36:10|45:128|46:10000|51:0|53:400|54:1|55:0|56:0|61:0|62:120|63:120|98:2|99:1|114:5000|124:0|126:0|137:10000|162:24|163:32768|165:0|166:0|174:5|178:1048576|179:100|180:5000|182:600|183:4|184:1|193:3|206:60000| -boolPrefs 1:0|2:0|4:0|26:1|27:1|30:0|33:1|37:1|38:0|39:0|40:0|43:1|44:1|47:0|48:0|49:0|50:0|52:0|57:1|58:1|59:0|60:1|64:1|65:1|66:0|67:1|68:1|69:0|70:1|73:0|74:0|77:1|78:1|82:1|83:1|84:1|85:0|86:0|88:0|89:0|90:1|91:0|92:1|95:1|97:0|100:1|101:0|108:0|113:0|116:0|118:1|119:1|121:1|125:0|127:0|129:0|131:1|132:1|138:1|139:0|140:1|142:0|153:1|160:0|161:0|164:1|167:0|169:1|171:1|172:0|177:0|181:1|186:0|187:0|188:0|189:1|190:0|191:1|192:1|195:1|198:0|199:0|200:1|201:1|202:0|203:1|204:1|205:1|207:0|208:0|210:0|218:1|219:1|220:0|221:0|222:0| -stringPrefs 3:7;release|96:0;|141:3;1.0|158:332;  ¼½¾ǃː??։֊׃״؉؊٪۔܁܂܃܄ᅟᅠ᜵           ???‐’․‧??????? ‹›⁁⁄⁒ ⅓⅔⅕⅖⅗⅘⅙⅚?⅜⅝⅞⅟∕∶⎮╱⧶⧸⫻⫽⿰⿱⿲⿳⿴⿵⿶⿷⿸⿹⿺⿻　。〔〕〳゠ㅤ㈝㈞㎮㎯㏆㏟꞉︔︕︿﹝﹞?．／｡ﾠ???￼�|159:4;high| -schedulerPrefs 0001,2 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 19493 true tab
+jylee     20279  0.0  0.6 559792  9988 ?        Ssl  1月07   0:05 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service --lockscreen-mode
+root      27408  0.0  0.1  16124  2980 ?        S    12:26   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-ens33.pid -lf /var/lib/NetworkManager/dhclient-1bd5e7f7-16cb-3237-ac76-2aa0ff9614d9-ens33.lease -cf /var/lib/NetworkManager/dhclient-ens33.conf ens33
+root      27663  0.0  0.4  97496  6696 ?        Ss   12:27   0:00 sshd: jylee [priv]
+jylee     27720  0.0  0.2  97496  4220 ?        S    12:27   0:07 sshd: jylee@pts/11,pts/20
+jylee     27722  0.0  0.3  29792  5400 pts/11   Ss   12:27   0:00 -bash
+jylee     28272  0.0  0.3  29728  5268 pts/20   Ss   13:44   0:00 -bash
+root      28499  0.0  0.0      0     0 ?        S    14:14   0:00 [kworker/1:2]
+root      28659  0.0  0.0      0     0 ?        S    14:41   0:00 [kworker/u256:1]
+root      28673  0.0  0.0      0     0 ?        S    14:42   0:00 [kworker/1:1]
+jylee     28758  0.0  0.5  65748  8952 pts/20   S+   14:54   0:00 vim exec_ps.c
+root      28775  0.0  0.0      0     0 ?        S    14:57   0:00 [kworker/0:1]
+root      28787  0.0  0.0      0     0 ?        S    14:59   0:00 [kworker/u256:0]
+root      28802  0.0  0.0      0     0 ?        S    15:04   0:00 [kworker/0:2]
+root      28832  0.0  0.0      0     0 ?        S    15:07   0:00 [kworker/u256:2]
+root      28889  0.0  0.0      0     0 ?        S    15:11   0:00 [kworker/0:0]
+root      28890  0.0  0.0      0     0 ?        S    15:11   0:00 [kworker/0:3]
+jylee     28901  0.0  0.0   4224   652 pts/11   S+   15:11   0:00 ./homework
+jylee     28902  0.0  0.2  44432  3188 pts/11   R+   15:11   0:00 ps aux
+jylee     28903  0.0  0.0   4356    84 pts/11   S+   15:11   0:00 ./homework
+jylee     28904  0.0  0.0   4356    84 pts/11   S+   15:11   0:00 ./homework
